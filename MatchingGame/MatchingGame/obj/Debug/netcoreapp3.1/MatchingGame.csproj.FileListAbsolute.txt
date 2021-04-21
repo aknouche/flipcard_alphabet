@@ -1,0 +1,16 @@
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.exe
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.deps.json
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.json
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.dev.json
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csprojAssemblyReference.cache
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.Form1.resources
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csproj.GenerateResource.cache
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfo.cs
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.genruntimeconfig.cache
+C:\Users\lamakn\source\repos\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.Properties.Resources.resources
